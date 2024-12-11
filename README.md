@@ -1,7 +1,6 @@
 <meta name="description" content="ZBrush: Professional digital sculpting software for 3D artists">
 <meta name="keywords" content="ZBrush, digital sculpting, 3D modeling, 3D sculpting software, art, ZBrush tutorial, 3D art, character modeling">
 
-<h1>ZBrush: Unleash Your Creativity with Advanced Digital Sculpting</h1>
 
 <p dir="ltr"><img src="placeholder_zbrush.jpg" alt="ZBrush" style="max-width: 100%;"></p> <!-- Replace with a real ZBrush image -->
 
